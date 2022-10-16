@@ -1,0 +1,3 @@
+[submodule "growing_ca"]
+	path = growing_ca
+	url = git@github.com:jacksonsdean/Growing-Neural-Cellular-Automata.git
